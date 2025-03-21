@@ -3,9 +3,9 @@ A machine learning model for predicting movie ratings based on various attribute
 
 ## Table of Contents
 - [Project Overview](#Project-Overview)
-- [Objectives](##objectives)
+- [Objectives](#objectives)
 - [Data Understanding](#data-understanding)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
 - [Modeling](#Modeling)
 - [Recommendations](#recommendations)
 - [Conclusion](#Conclusion)
